@@ -19,7 +19,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Telmon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Telmon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=telmon95&show_icons=true&theme=radical)
 
 ---
 
