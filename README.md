@@ -13,8 +13,8 @@
 ## 🛠️ Tools & Technologies
 - **Programming Languages:** C, Python, JavaScript, HTML, CSS
 - **Frameworks:** React, Django, Flask
-- **Databases:** MySQL, MongoDB
-- **Other:** Git, Docker, AWS
+- **Databases:** MySQL
+- **Other:** Git
 
 ---
 
