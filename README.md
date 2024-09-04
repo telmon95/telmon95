@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Telmon!</h1>
 
-<!--
-**telmon95/telmon95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/your-username" width="150" height="150" alt="Telmon">
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <strong>Full-Stack Developer | Tech Enthusiast</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tools & Technologies
+- **Programming Languages:** Python, JavaScript, HTML, CSS
+- **Frameworks:** React, Django, Flask
+- **Databases:** MySQL, MongoDB
+- **Other:** Git, Docker, AWS
+
+---
+
+## 📊 GitHub Stats
+![Telmon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+---
+
+## 📫 Contact Me
+- **Twitter:** [@DEOXYRIBOSE404](https://twitter.com/DEOXYRIBOSE404)
+- **Instagram:** [one.one.oneone](https://www.instagram.com/one.one.oneone)
+- **WhatsApp:** [0814532273](https://wa.me/0814532273)
+- **Email:** [Telmonm@gmail.com](mailto:Telmonm@gmail.com)
+
+---
+
+<p align="center">Thanks for visiting my profile!</p>
