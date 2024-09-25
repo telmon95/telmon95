@@ -37,6 +37,8 @@
 ## 📊 GitHub Stats:
 ![Telmon's GitHub stats](https://github-readme-stats.vercel.app/api?username=telmon95&show_icons=true&theme=tokyonight)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=telmon95&layout=compact&theme=radical)
+
 
 ### Featured Projects:
 - [Weather App](https://github.com/telmon95/weather-app): A web app that displays real-time weather data using OpenWeatherMap API.
