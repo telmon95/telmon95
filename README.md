@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Telmon!</h1>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/your-username" width="150" height="150" alt="Telmon">
+  <img src="https://avatars.githubusercontent.com/telmon95" width="150" height="150" alt="Telmon">
 </p>
 
 <p align="center">
