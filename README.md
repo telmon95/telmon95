@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Full-Stack Software Developer | Tech Enthusiast</strong>
+  <strong>Full-Stack Software Developer | ALX Sudent: Full-stack Software Engineering | Tech Enthusiast</strong>
 </p>
 
 ---
